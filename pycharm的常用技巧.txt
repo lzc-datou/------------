@@ -1,0 +1,12 @@
+1、ctrl + / 注释选中代码
+2、ctrl + b 或者 ctrl + 鼠标左键点击   查看内置函数源码
+3、shift + enter 光标跳转到下一行代码
+4、ctrl + f 在文件中查找
+5、ctrl + r 在文件中替换
+6、alt + 鼠标点击多处位置    进行多行同时编辑
+7、ctrl + shift + v 调出Pycharm的历史剪贴板
+8、ctrl + shitf + u 实现选中的整块代码大小写转换
+9、鼠标放在函数名上   可显示函数的参数与返回值及注释说明
+10、ctrl + shift + i：快速预览函数源代码
+11、ctrl + alt + l 重新格式化选中代码
+12、ctrl + d  局部复制

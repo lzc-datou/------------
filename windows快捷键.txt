@@ -1,0 +1,140 @@
+                                                                                      windows快捷键
+复制：Ctrl + C
+
+剪切 ：Ctrl + X
+
+粘贴：Ctrl + V
+
+最大化窗口：F11或Windows徽标键 +向上键 
+
+打开任务视图：Windows徽标键 + Tab
+
+显示和隐藏桌面：Windows徽标键 + D 
+
+在打开的应用之间切换 ：Alt + Tab
+
+打开"快速链接"菜单：Windows徽标键 + X
+
+锁定电脑：Windows 徽标键 + L
+
+打开电脑设置 ：win + i
+
+锁屏: win + L
+
+关闭当前窗口 : alt + fn + f4、
+
+截全屏： win + prtsc
+
+区域截屏： win + shift + s
+
+撤销上一步操作： ctrl + z
+
+打开“我的电脑”（资源管理器）： win + e
+
+打开任务管理器: ctrl + shift + Esc
+
+打开剪贴板： win + v
+
+Windows快捷键大全功能键区：
+F1 帮助
+F2 重命名、部分主板开机时的BIOS快捷键
+F3 查找
+F4 地址栏
+F5 刷新
+F6 切换（到地址栏）
+F9 部分主板开机引导
+F7、8 自定义
+F10 + Shift或Alt 右键菜单
+F11全屏
+F12 部分主板开机引导
+
+
+Windows快捷键大全编辑键区：
+Insert键：插入/改写键。使用该键可以切换当前文本输入状态是插入状态还是改写状态。Word、写字板、记事本等文字处理和某些程序编译器支持该功能。
+Delete键：删除键，文本编辑可以删除光标后而不是前的字符，文件浏览可以删除选中的文件。部分主板通过该键进入BIOS。
+Delete+Shift删除被选中的项目，如果是文件，将被直接删除而不是放入回收站
+Home键：起始键，用于将光标移至行开头。浏览网页时，可以返回网页最上端。
+End键：结尾键，用于将光标移至结尾。浏览网页时，可以将页面滚至最下方。
+Page Up键：向上翻页键。
+PageDown键：向下翻页键。
+
+Windows快捷键大全Up、Down、Left、Right 方向键
+方向键本键如果活动选项是选项按钮或文件则为移动焦点；
+方向键 + Win键（简称Win键）使窗口全屏、最小化、靠左半边、靠右半边（部分版本不支持）；
+方向键+Shift键将连续的文字或文件选中
+方向键（左右）+Ctrl键 在英文单词或中文词语间跳跃
+方向键（上下）+Ctrl键 在段落开头间跳跃
+
+Windows快捷键大全Ctrl键
+Ctrl+Alt+Delete打开安全选项（XP及以下为任务管理器，DOS系统中为重启）
+Ctrl+Shift+Esc打开任务管理器 （Win9x中打开开始菜单）
+Ctrl+Shift+N 新建一个新的文件夹（Win XP不适用）
+Ctrl+Shift切换中英文输入法。
+Ctrl+Space（空格）的作用不一样，是切换输入法和非输入法
+Ctrl+Tab焦点向下一项移动
+Ctrl+Shift+Tab=Shift+Tab焦点向上一项移动
+Ctrl+F4 Win资源管理器中切至地址栏；媒体播放中停止。
+
+Ctrl+a 全选All
+Ctrl+b 粗体 Black
+Ctrl+c 或insert 拷贝 Copy
+Ctrl+d 字体格式 Decorate
+Ctrl+e 居中对齐 Encenter
+Ctrl+f 查找 Find
+Ctrl+g 定位 Get address
+Ctrl+h 替换 Huan
+Ctrl+i 斜体 italic
+Ctrl+j 两端对齐 Justify
+Ctrl+k 超级链接 King Link
+Ctrl+l 左对齐 Left Ailgn
+Ctrl+m 左缩进 M……
+Ctrl+n 新建 New 或Ctrl+Shift+n
+Ctrl+o 打开 Open
+Ctrl+p 打印 Print
+Ctrl+r 右对齐 Right Align
+Ctrl+s 保存 Save
+Ctrl+t 首行缩进 =Tab
+Ctrl+u 下划线 Underline
+Ctrl+v = Shift + Insert 粘贴 Paste （在c边上故随意赋键)
+Ctrl+w关闭当前的窗口、标签页、工作、文件或停止媒体播放Work
+Ctrl+x 剪切
+Ctrl+y= Alt+Shift + Backspace重复 （反撤销）
+Ctrl+z= Alt + Backspace撤销
+
+Windows快捷键大全WIN键
+Win键+ 向上键最大化窗口
+Win键+ 向左键将窗口右移或
+Win键+ 向右键将窗口
+Win键+ 向下键最小化窗口
+Win键+ F1 显示“帮助”
+Win键+PrintScreen键截取当前屏幕到剪贴板，并保存截屏图片文件到“图片”文件夹中。（WIN8/10）
+Win键或Ctrl+Esc打开开始菜单
+Win键+Break打开“系统属性”对话框
+Win键+Pause显示“系统属性”对话框
+Win键+Tab循环切换任务栏上的程序（win7、win8）（windowsXP不适用）
+Win键 + Tab使用 Aero Flip 3-D 循环切换任务栏上的程（win7）（windowsxp不适用）
+Win键 +Tab+ Ctrl通过 Aero Flip 3-D 使用方向键循环切换任务栏上的程序 （win7）
+Win键 + Space如果开启了AERO效果，预览桌面 （win7）（在win10此项是小界面切换输入法）
+Win键+ Home最小化除活动窗口之外的所有窗口（win7）（windowsXP不适用
+
+主键盘区上的数字
+Win键+数字启动锁定到任务栏中的由该数字所表示位置处的程序。如果该程序已在运行，则切换到该程序
+Win键+Shift+数字启动锁定到任务栏中的由该数字所表示位置处的程序的新实例
+Win键+Alt+ 数字打开锁定到任务栏中的第该数字个程序的跳转列表(Jump List)）
+
+
+Win键+B 选中桌面右下方托盘栏或任务栏Progress Bar
+Win键+D显示桌面Desktop
+Win键+E打开Windows资源管理器Explorer【即我的电脑、计算机】
+Win键+F 打开“查找：所有文件”对话框（win10中为打开反馈中心）（Win资源管理器中为切至查找栏）
+Win键+F+Ctrl 搜索计算机（如果已连接到网络）
+Win键+G 循环切换小工具（win7）（win10打开xbox菜单）（windowsXP不适用）
+Win键+I 打开“设置”（win10）
+Win键+L 锁定计算机或切换用户
+Win键+M 最小化所有窗口
+Win键+Shift+M 将最小化的窗口还原到桌面
+WIN键+P 多荧幕\投影仪选项选择演示显示模式。（WIN7）出现菜单后再摁Win+P选择选项，放开Win即可 确定。也可摁一次然后方向键选择回车键确定。
+Win键+R 打开“运行”对话框
+WIN键+T 显示任务栏当前所用程序的任务栏缩略图，再按一次切换到其他缩略图。（QWIN7）
+Win键+U 打开辅助工具管理器、轻松访问中心
+Win键+X 打开 Windows 移动中心（win7）（win10唤起开始按钮右键菜单）（windowsXP不适用）
